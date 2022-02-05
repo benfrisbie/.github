@@ -1,21 +1,10 @@
 # Security Policy
-
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+I, Ben Frisbie, take the security of my software projects seriously. Any vulnerabilities that you discover should be reported as quickly as possible.
 
 ## Reporting a Vulnerability
+A github issue should be opened on the repository with the vulnerability. Inlcude as much information as possible on the vulnerability such as links or steps to reproduce.
 
-Use this section to tell people how to report a vulnerability.
+A response on the issue should be expected within 24 hours.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## Preferred Languages
+We prefer all communications to be in English.
