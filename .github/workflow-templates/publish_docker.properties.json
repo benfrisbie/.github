@@ -1,0 +1,11 @@
+{
+    "name": "Publish Docker Image",
+    "description": "Build and publish docker image to ghcr.io",
+    "iconName": "docker",
+    "categories": [
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
